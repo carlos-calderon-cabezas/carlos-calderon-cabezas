@@ -12,11 +12,11 @@ Actualmente me desempeño como consultor independiete de ingeniería y me gustar
 
 # Formas de contactarme
 
-Siéntete libre de contartarme si deseas información adicional o colaborar conmigo en proyectos tecnológicos o bien para colaborar en tu empresa a través de los siguientes medios de contacto:
+Siéntete libre de contartarme haciendo clics en los enlaces de abajo si deseas información adicional o colaborar conmigo en proyectos tecnológicos o bien para colaborar en tu empresa a través de los siguientes medios de contacto:
 
+LinkedIn: [https://www.linkedin.com/in/carlos-calderon-cabezas](https://www.linkedin.com/in/carlos-calderon-cabezas)
 
-<a href="https://www.linkedin.com/in/carlos-calderon-cabezas" target="_blank">LinkedIn</a>
-
+Correo Electrónico: [carloscalderon04@hotmail.com](mailto:carloscalderon04@hotmail.com)
 
 <!---
 - 👋 Hi, I’m @cjcalderon9804
