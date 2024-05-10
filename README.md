@@ -64,7 +64,7 @@ I have shared some of my work, both related to my academic training as well as m
 
 Feel free to contact me by clicking on the links below if you want additional information or to collaborate with me on technological projects or to collaborate in your company through the following means of contact:
 
-LinkedIn: [https://www.linkedin.com/in/carlos-calderon- Cabezas](https://www.linkedin.com/in/carlos-calderon- Cabezas)
+LinkedIn: [https://www.linkedin.com/in/carlos-calderon-cabezas](https://www.linkedin.com/in/carlos-calderon-cabezas)
 
 Email: [carloscalderon04@hotmail.com](mailto:carloscalderon04@hotmail.com)
 
