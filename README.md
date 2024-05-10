@@ -6,7 +6,13 @@ Mi nombre es Carlos Calderón y soy un ingeniero de profesión apasionado por la
 
 Dentro de la inteligencia artificial me gusta trabajar con visión artificial, procesamiento de lenguaje natural, incluyendo análisis de sentimientos y redes neuronales con TensorFlow. En cuanto a Ciberseguridad me gusta realizar ingeniería inversa, análisis forense, detección de vulnerabilidades, entre otras cosas. En desarrollo de software me gusta principalmente trabajar en el ecosistema de .NET Core, en el lenguaje C# para el desarrollo de aplicaciones de escritorio con Windows Forms y WPF. Asímismo he trabajado con JS para aplicaciones web sencillas back-end y Vue.JS para front-end.
 
-Dentro de mi experiencia he tenido la oportunidad de trabajar en proyectos tales como el análisis de flota de tráfico existente y proyección a futuro con herramientas de ciencia de datos y machine learning, fotogrametría con drones para realizar cálculos y proyecciones con visión artificial, desarrollo de software para módulos de software contable mediante Visual Studio .NET Core, y lenguaje de programación C#.
+# Breve resumen de mi experiencia
+
+Como parte de mi experiencia, he tenido la oportunidad combinar mi antigua profesión que fue la ingeniería civil para trabajar en diversos proyectos tales como analizar la flota de tráfico existente en una vía que se desaba remodelar y proyecctar las condiciones de la vía y del tráfico a futuro con herramientas de ciencia de datos y machine learning. También tuve la oportunidad de realizar fotogrametría con drones con el fin de realizar cálculos y proyecciones con visión artificial y redes neuronales para extraer conclusiones a parir de una nube de puntos densa.
+
+Adicionalmente, he tenido la oportunidad de trabajar con bases de datos relacionales y no relaciones, como SQL Server, Databricks PySpark y también un poco de MongoDB. También he realizado trabajos de programación, tales como la elaboración de macros en VBA para automatizar procesos y el desarrollo de software en Visual Basic y C# en el ecosistema de .NET Core para módulos de un programa contable.
+
+# Tecnologías y lenguajes de programación que domino
 
 Entre los lenguajes de programaicón que más domino están, entre otros: *Python*, *Java*, *C++*, *R*, *C#* y *Visual Basic*. Además domino herramientas de Bases de Datos como *Microsoft SQL Server*, *PostgreSQL*, *PySpark*, *Databricks* y *MongoDB*. También tengo conocimiento en Análisis de Datos y herramientas de visualización y dashboards como *Microsoft Power BI*, donde además manejo *Funciones DAX*.
 
