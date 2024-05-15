@@ -1,5 +1,7 @@
 Hola y gracias por visitar mi portafolio de GitHub! / Hey there and thank you for visiting my GitHub portfolio! 🐙🐱
 
+![image](https://github.com/carlos-calderon-cabezas/carlos-calderon-cabezas/assets/156715991/cd25895a-f838-4d04-99b0-d38cec313e4c)
+
 # Español
 
 [**Click here for the english version**](#english)
