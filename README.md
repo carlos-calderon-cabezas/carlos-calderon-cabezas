@@ -1,8 +1,8 @@
 Hola y gracias por visitar mi portafolio de GitHub! / Hey there and thank you for visiting my GitHub portfolio! 🐙🐱
 
-[**Click here for the english version**](#english)
-
 # Español
+
+[**Click here for the english version**](#english)
 
 ## Acerca de mí
 
@@ -34,9 +34,9 @@ LinkedIn: [https://www.linkedin.com/in/carlos-calderon-cabezas](https://www.link
 
 Correo Electrónico: [carloscalderon04@hotmail.com](mailto:carloscalderon04@hotmail.com)
 
-[**Haz clic aquí para la versión en español**](#español)
-
 # English
+
+[**Haz clic aquí para la versión en español**](#español)
 
 ## About me
 
