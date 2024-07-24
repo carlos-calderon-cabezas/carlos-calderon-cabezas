@@ -16,6 +16,8 @@ Mi nombre es Carlos Calderón y soy un ingeniero de profesión apasionado por la
 
 [Análisis y Predicciones de Datos de Tráfico Vehicular](https://github.com/carlos-calderon-cabezas/traffic-analysis)
 
+[Generador y Almacenador de Contraseñas en Python](https://github.com/carlos-calderon-cabezas/simple-password-generator)
+
 ## Formas de contactarme
 
 LinkedIn: [https://www.linkedin.com/in/carlos-calderon-cabezas](https://www.linkedin.com/in/carlos-calderon-cabezas)
