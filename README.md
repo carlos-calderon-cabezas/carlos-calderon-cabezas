@@ -10,7 +10,7 @@ Hola y gracias por visitar mi portafolio de GitHub! / Hey there and thank you fo
 
 Mi nombre es Carlos Calderón y soy un ingeniero de profesión apasionado por la informática y la tecnología en general. Dentro de la informática me gusta mucho el análisis de datos, la inteligencia artificial y el machine learning, la inteligencia de negocios y la computación en la nube. Cuento además con una Maestría en Data Science.
 
-## Mis proyectos (repositorios) en GitHub
+## Mis principales proyectos (repositorios) en GitHub
 
 - [Análisis de Sentimientos en Airbnb](https://github.com/carlos-calderon-cabezas/airbnb-sentiment-analysis)
 - [Análisis y Predicciones de Datos de Tráfico Vehicular](https://github.com/carlos-calderon-cabezas/traffic-analysis)
