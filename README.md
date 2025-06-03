@@ -20,7 +20,7 @@ Mi nombre es Carlos Calderón y soy un ingeniero de profesión apasionado por la
 
 LinkedIn: [https://www.linkedin.com/in/carlos-calderon-cabezas](https://www.linkedin.com/in/carlos-calderon-cabezas)
 
-Correo Electrónico: [carloscalderon04@hotmail.com](mailto:carloscalderon04@hotmail.com)
+Correo Electrónico: [ccalderoncabezas@gmail.com](mailto:ccalderoncabezas@gmail.com)
 
 
 
